@@ -57,7 +57,7 @@ CHESSMANAGER_URL=https://www.chessmanager.com/pl-pl/tournaments/1234567890123456
 
 Log in to Lichess.org
 Go to Personal API Tokens
-Click "Create a new token", select Read Games, and copy the generated token.
+Click "Create a new token", and copy the generated token without adding any additional permissions.
 Paste it into .env.
 
 5️⃣ Run the script
