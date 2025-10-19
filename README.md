@@ -22,7 +22,7 @@ Each game is saved as a separate `.pgn` file.
 With Git:
 ```bash
 git clone https://github.com/PieroZ/lichess-pgn-exporter.git
-cd lichess-downloader
+cd lichess-pgn-exporter
 
 2️⃣ Create and activate a virtual environment
 
